@@ -12,7 +12,7 @@ const Signin = () => {
   const [checked, setChecked] = useState(false);
 
   const onSignUp = () => {
-    console.log('onSignUp')
+    console.log('HOLA HOMARDS')
   }
 
   return (
